@@ -39,7 +39,7 @@ require 'encrypted_strings'
 
 CLIENT_ID = "b6fb9c02dd834a34905d970f32e122d6" # TODO: Get it from Spotify
 CLIENT_SECRET = "632bfdf728514a2f88ba6548a202d020" # TODO: Get it from Spotify
-CLIENT_CALLBACK_URL = "spotifyiossdkexample://" # TODO: Get it from Spotify
+CLIENT_CALLBACK_URL = "spotifymasher://" # TODO: Get it from Spotify
 
 # I don't think the secret should be changed...
 ENCRYPTION_SECRET = "cFJLyifeUJUBFWdHzVbykfDmPHtLKLGzViHW9aHGmyTLD8hGXC"
